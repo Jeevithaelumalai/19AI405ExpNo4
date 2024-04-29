@@ -117,3 +117,5 @@ G 0 <br>
 <h2>Sample Output</h2>
 <hr>
 Path found: ['A', 'E', 'D', 'G']
+<h2>Result:</h2>
+Thus the program was executed successfully.
